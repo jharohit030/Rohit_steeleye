@@ -1,0 +1,9 @@
+INFO:root:Downloading successful!
+INFO:root:Extracting all the files now...
+INFO:root:Extraction completed!
+INFO:root:Wrote 141381 rows to output.csv
+INFO:root:Output file is created successfully..
+INFO:root:Data stored in the respective columns..
+INFO:root:File is download successfully..
+INFO:root:File extraction is done successfully..
+INFO:root:Checking for the null value in output file
